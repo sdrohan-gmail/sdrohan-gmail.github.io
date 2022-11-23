@@ -9,4 +9,5 @@
 
 ### GitHub Repos of note
 
-(Health Tracker - RESTful API)[https://github.com/sdrohan-gmail/health-tracker-rest]
+[Health Tracker - RESTful API](https://github.com/sdrohan-gmail/health-tracker-rest)
+
